@@ -1,46 +1,46 @@
 <topics>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-boston-subway</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	      <id>/</id>
+	      <rel></rel>
+	      <text></text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>/</id>
+        <rel></rel>
+        <text></text>
       </result>
     </results>
   </topic>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-early-electric-cars</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>/</id>
+        <rel></rel>
+        <text></text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>/</id>
+        <rel></rel>
+        <text></text>
       </result>
     </results>
   </topic>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-gregory-rasputin</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>/</id>
+        <rel></rel>
+        <text></text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>/</id>
+        <rel></rel>
+        <text></text>
       </result>
     </results>
   </topic>
